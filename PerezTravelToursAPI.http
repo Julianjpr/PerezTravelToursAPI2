@@ -1,0 +1,6 @@
+@PerezTravelToursAPI_HostAddress = http://localhost:5202
+
+GET {{PerezTravelToursAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
